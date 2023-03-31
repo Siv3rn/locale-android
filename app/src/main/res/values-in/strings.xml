@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocaleText</string>
+    <string name="action_help">Bantuan</string>
+    <string name="description">Nougat adalah keluarga dari confections</string>
+    <string name="nougat">Paket Permen Nougat</string>
+    <string name="help_text">Jika butuh bantuan, silahkan hubungi bantuan departemen kami</string>
+    <string name="dial_log_message">Tidak bisa resolve app untuk aksi ACTION_DIAL Intent</string>
+</resources>

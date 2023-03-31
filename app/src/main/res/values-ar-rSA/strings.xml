@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocaleText</string>
+    <string name="action_help">ga bisa arab bang</string>
+    <string name="description">Nougat bang</string>
+    <string name="nougat">ga bisa arab</string>
+    <string name="help_text">jika antum butuh bantuan hubungi departemen</string>
+    <string name="dial_log_message">error bang</string>
+</resources>
